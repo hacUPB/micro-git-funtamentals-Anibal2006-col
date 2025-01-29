@@ -1,0 +1,17 @@
+# Archivos generados por el compilador
+*.o
+*.a
+*.out
+*.exe
+*.so
+
+# Archivos temporales del editor/IDE
+*.swp
+*.bak
+.vscode/
+.idea/
+*.d
+
+# Archivos de configuración del compilador (opcional)
+Makefile
+CMakeLists.txt
