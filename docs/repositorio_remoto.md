@@ -1,5 +1,5 @@
 # Repositorio remoto 
-![alt text](../images/images.png)
+
 
 1. **Conectar el repositorio local con el remoto**:
 Agrega un archivo al repositorio (opcional, pero recomendable):  
