@@ -16,14 +16,13 @@ Este proyecto se realizó con el fin de entender el funcionamiento de la consola
  `git clone https://github.com/usuario/nombre-repositorio.git
 `  Esto descargará una copia exacta del repositorio en la máquina local.
 -    Entrar en la carpeta del proyecto clonado:  
- `cd nombre-repositorio  
+ `cd nombre-repositorio`  
 
-`
 | Archivos |  Link |
 |--------------|--------------|
-| Uso de comandos | [uso de comandos](uso_consola.md)  |
-| Repositorio local| [repositorio local](repositorio-local.md) |
-| Repositorio remoto | [Repositorio remoto](repositorio_remoto.md)  |
+| Uso de comandos | [uso de consola](./docs/repositorio_local.md)  |
+| Repositorio local| [Repositorio local](./docs/repositorio_local.md) |
+| Repositorio remoto |  [Repositorio remoto](./docs/repositorio_remoto.md)  |
     
 
 
