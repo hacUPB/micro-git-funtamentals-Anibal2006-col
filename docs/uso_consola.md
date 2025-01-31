@@ -4,25 +4,27 @@
 
 Para poder navegar en la consola gitbash es necesario conocer los comandos basicos de esta, los cuales son:  
 
-- _pwd_  (print working directory): Este comando muestra la ruta del directorio actual en el que te encuentras.  
+- **pwd (print working directory)**: Este comando muestra la ruta del directorio actual en el que te encuentras.  
+![alt text](image-3.png)
 
-- _ls_ (list): Este comando lista los archivos y directorios dentro del directorio actual.
+- **ls (list)**: Este comando lista los archivos y directorios dentro del directorio actual.  
+![alt text](image-4.png)
  
-- _ls -al_:  Muestra todos los archivos, incluyendo los ocultos.  
+- **ls -al**:  Muestra todos los archivos, incluyendo los ocultos.  
+![alt text](image-7.png)
+- **cd nombre_directorio/**: Se usa para moverse entre carpetas.  
+![alt text](image-6.png)
+- **cd..**: Se usa para regresar al directorio anterior.  
+![alt text](image-5.png)
+- **mkdir nombre_directorio**: Permite crear una nueva carpeta.  
 
-- _cd nombre_directorio/_: se usa para moverse entre carpetas.  
+- **touch nombre_archivo**: Crea un archivo vacío, útil para iniciar nuevos documentos o scripts.  
 
-- _cd.._: se usa para regresar al directorio anterior.  
+- **mv**: Se usa para mover o renombrar archivos y carpetas.  
 
-- _mkdir nombre_directorio_: permite crear una nueva carpeta.  
+- **cp**: Permite copiar archivos y directorios (cp -r para copiar carpetas con su contenido).  
 
-- _touch nombre_archivo_: crea un archivo vacío, útil para iniciar nuevos documentos o scripts.  
-
-- _mv_: se usa para mover o renombrar archivos y carpetas.  
-
-- _cp_: permite copiar archivos y directorios (cp -r para copiar carpetas con su contenido).  
-
-- _rm_: borra archivos, mientras que rm -r elimina carpetas junto con su contenido.
+- **rm**: Borra archivos, mientras que rm -r elimina carpetas junto con su contenido.
 
 
 
