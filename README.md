@@ -17,13 +17,13 @@ Este proyecto se realizó con el fin de entender el funcionamiento de la consola
 `  Esto descargará una copia exacta del repositorio en la máquina local.
 -    Entrar en la carpeta del proyecto clonado:  
  `cd nombre-repositorio  
- 
+
 `
-| Archivos |  link |
+| Archivos |  Link |
 |--------------|--------------|
-| images | [images](images) |
-| docs | [docs](docs) |
-| src | [src](src)  |
+| Uso de comandos | [uso de comandos](uso_consola.md)  |
+| Repositorio local| [repositorio local](repositorio-local.md) |
+| Repositorio remoto | [Repositorio remoto](repositorio_remoto.md)  |
     
 
 
