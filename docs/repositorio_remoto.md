@@ -1,5 +1,5 @@
 # Repositorio remoto 
-![alt text](download.png)  
+![alt text](download-1.png)
 
 1. **Conectar el repositorio local con el remoto**:
 Agrega un archivo al repositorio (opcional, pero recomendable):  
